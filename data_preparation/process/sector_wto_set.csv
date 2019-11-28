@@ -1,0 +1,40 @@
+﻿WTO Sector,code,กลุ่มอุตสาหกรรม(SET),หมวดธุรกิจ(SET)
+Commercial services,1,Consumer Products,
+Commercial services (Services excl. government services),1,Consumer Products,
+Insurance and pension services,2,Financials,Insurance
+Insurance services,2,Financials,Insurance
+Financial services,3,Financials,
+Construction,4,Property & Construction,
+Construction abroad,4,Property & Construction,
+Construction in the reporting economy,4,Property & Construction,
+"Technical, trade-related, and other business services",5,Services,Commerce
+Health-related,6,Services,Health Care Services
+Education-related,7,Services,Professional Services
+Other commercial services (Commercial services - Travel & Transport),8,Services,Tourisms & Leisure
+"Personal, cultural and recreational services",8,Services,Tourisms & Leisure
+"Personal, cultural, and recreational services",8,Services,Tourisms & Leisure
+Travel,8,Services,Tourisms & Leisure
+Freight (All modes of transport),9,Services,Transportation & Logistics
+Other (All modes of transport- other than Postal and courier services),9,Services,Transportation & Logistics
+Other (All modes of transport),9,Services,Transportation & Logistics
+Passenger (All modes of transport),9,Services,Transportation & Logistics
+Transport,9,Services,Transportation & Logistics
+Transportation,9,Services,Transportation & Logistics
+Business,10,Services,
+Charges for the use of intellectual property n.i.e.,10,Services,
+Memo item: Government goods and services n.i.e.,10,Services,
+Memo item: Government services n.i.e.,10,Services,
+Memo item: Other services,10,Services,
+Memo item: Total services,10,Services,
+Other (Personal),10,Services,
+Other business services,10,Services,
+"Other personal, cultural, and recreational services",10,Services,
+Personal,10,Services,
+Royalties and license fees,10,Services,
+Other commercial services,11,Consumer Products,
+Communications services,12,Technology,Information & Communication Technology
+Computer and information services,12,Technology,Information & Communication Technology
+Computer services,12,Technology,Information & Communication Technology
+Telecommunication services,12,Technology,Information & Communication Technology
+Telecommunications services,12,Technology,Information & Communication Technology
+"Telecommunications, computer, and information services",12,Technology,Information & Communication Technology
